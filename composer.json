@@ -1,0 +1,22 @@
+{
+  "name": "volkish/cookie",
+  "description": "Simple Cookie Wrapper",
+  "minimum-stability": "dev",
+  "license": "GPL-3.0",
+  "keywords": ["cookie"],
+  "homepage": "https://github.com/volkish/cookie",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Volkish\\Cookie\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Artem Ivanov",
+      "email": "ai@artem.cc"
+    }
+  ]
+}
